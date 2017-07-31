@@ -1,0 +1,15 @@
+{
+	"name": "plato-creative/platoecommerce-flatfeetax",
+	"description": "SilverStripe Ecommerce",
+	"keywords": ["silverstripe", "ecommerce"],
+	"require":
+	{
+		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1",
+		"swipestripe/swipestripe": "2.1.*",
+		"swipestripe/swipestripe-addresses": "2.1.*"
+	},
+	"extra": {
+    "installer-name": "plato-ecommerce-flatfeetax"
+  }
+}
